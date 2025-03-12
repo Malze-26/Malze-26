@@ -9,8 +9,6 @@
 ### 🚀 Tech Enthusiast | 🎨 Digital Artist | 🛠️ Innovator
 I'm a curious mind exploring the intersection of technology, creativity, and innovation. From designing sleek graphics 🎨 to building cool projects with microcontrollers 🤖, I love bringing ideas to life!
 
-- 🌱 I’m currently learning **[ui/ux designing]**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{Malze-26}/{Malze-26}/issues)**
 
 <br>
 
